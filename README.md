@@ -1,4 +1,4 @@
-# Freedom Flakes: Raisins Revenge
+# Freedom Flakes: Sega
 A funny off-brand of chex quest iwad that a open source a equivalent of FreeDoom.
 
 Story working in progress not final:
