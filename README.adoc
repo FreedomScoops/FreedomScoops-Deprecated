@@ -251,4 +251,4 @@ If they prefer not to give an email then the email can be omitted, so
 just "Bob Smith" in the above example.
 
 === Resources that was used for the project
-We used https://github.com/freedoom.io[The Freedoom project] to make the game and is fork for FreedomFlakes
+We used https://freedoom.github.io/[The Freedoom project] to make the game and is fork for FreedomFlakes
