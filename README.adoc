@@ -27,7 +27,7 @@ monsters and a double-barrelled shotgun equivalent. This project aims for
 compatibility with _Doom II Like IWAD_ continues journey of Flake Fury's adventure.
 *Freedom Flakes: Arena*:: A 32-level game designed for competitive deathmatch play a spin-off to the saga.
 
-The engine uses a single file, such as +FFRR.wad+, that contains
+The engine uses a single file, such as +FF.wad+, that contains
 all the game data such as graphics, sound effects, music, and so on.
 This file is often called an “IWAD” by those in the _Doom_ and
 _Freedom Flakes_ communities.  While the _Doom_ engine source code is free,
