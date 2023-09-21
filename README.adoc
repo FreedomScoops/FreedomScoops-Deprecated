@@ -2,12 +2,10 @@
 
 A funny off-brand of chex quest iwad that a open source a equivalent of FreeDoom.
 
-Story working in progress not final: 
-Raisin Furry is main character of the story you play as.
 
 The Freedom Flakes project aims to create a complete, free content first
 person shooter game, but _Freedom Flakes_ by itself is just the raw material
-for a game.  It must be paired with a compatible _Doom_ engine to be
+for a game. It must be paired with a compatible _Doom_ engine to be
 played.
 
 There is a massive https://doomwiki.org/wiki/Idgames_archive[back
@@ -21,13 +19,13 @@ single-player oriented campaigns and one set of levels designed
 exclusively for multiplayer deathmatch:
 
 [horizontal]
-*Freedom Flakes: Raisins Odyssey*:: Four episodes, nine levels each, totalling 36
-levels.  This game aims for compatibility with _The Ultimate Doom_
+*Freedom Flakes: Odyssey*:: Four episodes, nine levels each, totalling 36
+levels.  This game aims for compatibility with _Chex: Quest_
 mods, also known as plain _Doom_ or _Doom 1_.
 *Freedom Flakes: Raisins Revenge*:: 32 levels in one long episode, featuring extra
-monsters and a double-barrelled shotgun.  This project aims for
-compatibility with _Doom II_ mods.
-*Freedom Flakes: Arena*:: A 32-level game designed for competitive deathmatch play.
+monsters and a double-barrelled shotgun equivalent. This project aims for
+compatibility with _Doom II Like IWAD_ continues journey of Flake Fury's adventure.
+*Freedom Flakes: Arena*:: A 32-level game designed for competitive deathmatch play a spin-off to the saga.
 
 The engine uses a single file, such as +FFRR.wad+, that contains
 all the game data such as graphics, sound effects, music, and so on.
@@ -39,6 +37,10 @@ aims to create a free alternative: combined with the GPL-licensed
 _Doom_ source code, this results in a completely free game.
 
 For more information, see https://FreedomFlakes.github.io/.
+
+== Story
+Story working in progress not final: 
+Flake Furry is main character of the story you play as. 
 
 == How to play
 
@@ -122,16 +124,16 @@ liberty to rip as we please.
 The general rules go as follows:
 
   * You must have permission for everything you submit.  If you make
-    your own resources, do not base on resources from _Doom_ or any
+    your own resources, do not base on resources from _Chex_ or any
     other restricted work.  If you take work from other places, please
     make sure that the work is freely-licensed or that you obtain
     permission to include it in the _Freedom Flakes_ project.  They may not
     place additional restrictions compared to the normal _Freedom Flakes_
     license.
-  * Do not try to emulate _Doom_ resources exactly.  Where possible,
+  * Do not try to emulate _Chex_ resources exactly.  Where possible,
     put effort to make new versions look visibly different from
-    _Doom_.  This is a tough call, because our compatibility with
-    _Doom_ mods limits how far we can deviate, but it is feasible.
+    _Chex_.  This is a tough call, because our compatibility with
+    _Chex_ mods limits how far we can deviate, but it is feasible.
   * Be especially careful of “free textures” (or “free sounds” or
     “free graphics”) sites.  Although these would appear at first to
     be okay to use, many are free for “non-commercial use only.”
@@ -180,6 +182,9 @@ _Doom_ graphics, as to remain compatible with mods.  Otherwise, levels
 may end up looking like a nightmare in design.  They may be
 thematically different as long as it doesn’t clash.
 
+Freedom Flakes can't used the brand names such as “Chex” name in the project 
+trademarked name by General Mills and cannot be used in _Freedom flakes_. Instead,
+use something alternative names like freedoom would do in thier project.
 
 === Documentation
 
@@ -201,12 +206,9 @@ patches, but keep in mind:
 
 === Submitting your work
 
-The most common, and a fairly simple method, to submit your work is by
-posting it on the
-https://www.doomworld.com/forum/17-FreedomFlakes/[FreedomFlakes forum] on
-Doomworld Forums.  This allows a great number of people to review the
-contribution and provide feedback, although the registration process
-is known to be cumbersome.
+Since we don't have official place to submit work yet. 
+But we will figure something out possibly a discord or linked community would help keep ZNukem's projects
+organized. 
 
 An alternative to using the forum, is to post your submission on the
 https://github.com/FreedomFlakes FreedomFlakes/issues[issue tracker], which may
@@ -251,4 +253,4 @@ If they prefer not to give an email then the email can be omitted, so
 just "Bob Smith" in the above example.
 
 === Resources that was used for the project
-We used https://freedoom.github.io/[The Freedoom project] to make the game and is fork for FreedomFlakes
+We used https://freedoom.github.io/[The Freedoom project] to make the game and is forked for FreedomFlakes.
