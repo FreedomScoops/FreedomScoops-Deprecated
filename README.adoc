@@ -40,7 +40,8 @@ For more information, see https://FreedomFlakes.github.io/.
 
 == Story
 Story working in progress not final: 
-Flake Furry is main character of the story you play as. 
+Flake Furry is main character of the story you play as. Want to know more of the scoup read the story in the 
+https://github.com/FreedomFlakes/FreedomFlakes/tree/main/manual[manuals folder] 
 
 == How to play
 
