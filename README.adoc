@@ -212,7 +212,7 @@ But we will figure something out possibly a discord or linked community would he
 organized. 
 
 An alternative to using the forum, is to post your submission on the
-https://github.com/FreedomFlakes FreedomFlakes/issues[issue tracker], which may
+https://github.com/FreedomFlakes/FreedomFlakes/issues[issue tracker], which may
 also be peer-reviewed and provide a feedback cycle.
 
 Unfortunately, the Freedom Flakes project cannot provide hosting space in
