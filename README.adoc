@@ -81,9 +81,9 @@ of the following options should solve it:
     easiest quick-fix, although it is normally desirable to use one of
     the above methods if possible.
 
-    ** +Freedom Flakes.wad+ can be renamed to +doom.wad+
-    ** +Freedom Flakes.wad+ can be renamed to +doom2.wad+
-    ** +freedm.wad+ can be renamed to +doom2.wad+
+    ** +FF1.wad+ can be renamed to +doom.wad+
+    ** +FF2.wad+ can be renamed to +doom2.wad+
+    ** +FFA.wad+ can be renamed to +doom2.wad+
 
 Additionally, for Unix-like operating systems, such as GNU/Linux or a
 BSD variant, _Freedom Flakes_ may be packaged and installed with programs
