@@ -1,4 +1,4 @@
-# Freedom-Flakes-Raisins-Revenge
+# Freedom Flakes: Raisins Revenge
 A funny off-brand of chex quest iwad that a open source aequivalent of FreeDoom.
 
 Story working in progress not final:
