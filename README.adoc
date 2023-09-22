@@ -1,12 +1,11 @@
 = Freedom Flakes: Saga
 
-A funny off-brand of chex quest iwad that a open source a equivalent of FreeDoom.
-
+A funny off-brand of chex quest style iwad that a open source a equivalent of FreeDoom.
 
 The Freedom Flakes project aims to create a complete, free content first
 person shooter game, but _Freedom Flakes_ by itself is just the raw material
 for a game. It must be paired with a compatible _Doom_ engine to be
-played.
+played. 
 
 There is a massive https://doomwiki.org/wiki/Idgames_archive[back
 catalog], spanning over two decades, containing thousands of _Doom_
@@ -254,4 +253,5 @@ If they prefer not to give an email then the email can be omitted, so
 just "Bob Smith" in the above example.
 
 === Resources that was used for the project
-We used https://freedoom.github.io/[The Freedoom project] to make the game and is forked for FreedomFlakes.
+https://freedoom.github.io/[The Freedoom project] to make the game and is forked for FreedomFlakes.
+A basic https://github.com/kgsws/doom_ace/[ACE] script for editing the game such as text and adding little small modifications to game. 
