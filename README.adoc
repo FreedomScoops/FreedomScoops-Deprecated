@@ -253,5 +253,5 @@ If they prefer not to give an email then the email can be omitted, so
 just "Bob Smith" in the above example.
 
 === Resources that was used for the project
-https://freedoom.github.io/[The Freedoom project] to make the game and is forked for FreedomFlakes.
+The https://freedoom.github.io/[Freedoom] project to make the game and is forked for FreedomFlakes.
 A basic https://github.com/kgsws/doom_ace/[ACE] script for editing the game such as text and adding little small modifications to game. 
