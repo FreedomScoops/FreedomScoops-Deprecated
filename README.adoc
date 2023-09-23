@@ -86,7 +86,7 @@ of the following options should solve it:
 
 Additionally, for Unix-like operating systems, such as GNU/Linux or a
 BSD variant, _Freedom Flakes_ may be packaged and installed with programs
-named +Freedom Flakes1+, +Freedom Flakes2+, and +freedm+ that automatically run an
+named +Freedom Flakes 1+, +Freedom Flakes 2+, and +freedom Flakes Arena+ that automatically run an
 engine for proper play.  Desktop files may also be installed so that
 you can start the game using a graphical interface and avoid the
 command line altogether.
