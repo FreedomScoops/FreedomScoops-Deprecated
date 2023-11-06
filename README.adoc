@@ -252,8 +252,8 @@ git commit --author "Bob Smith <bob@example.com>" ...
 If they prefer not to give an email then the email can be omitted, so
 just "Bob Smith" in the above example.
 
-=== Resources that was used for the project
-The https://freedoom.github.io/[Freedom Flakes] project to make the game and is forked for Freedom Flakes.
-
-## Community
+=== Community
 We welcome anyone who is interested in the development of Freedom Flakes. Join the Luke Ken Discord community, where you can connect with other fans of the game, share your own mods and levels, and get help and support from other members. Click [here](https://discord.gg/TSFYwTPqUk) to join.
+
+=== Resources that was used for the project
+The https://freedoom.github.io/[Freedoom] project to make the game and is forked for Freedom Flakes.
