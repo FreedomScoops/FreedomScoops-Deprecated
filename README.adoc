@@ -20,8 +20,8 @@ exclusively for multiplayer deathmatch:
 [horizontal]
 *Freedom Flakes: Odyssey*:: Four episodes, nine levels each, totalling 36
 levels.  This game aims for compatibility with _Chex: Quest_
-mods, also known as plain _Doom_ or _Doom 1_.
-*Freedom Flakes: Raisins Revenge*:: 32 levels in one long episode, featuring extra
+mods, also known as plain _Doom_ or _Doom 1_. 
+*Freedom Flakes: Beyond The Bowl*:: 32 levels in one long episode, featuring extra
 monsters and a double-barrelled shotgun equivalent. This project aims for
 compatibility with _Doom II Like IWAD_ continues journey of Flake Fury's adventure.
 *Freedom Flakes: Arena*:: A 32-level game designed for competitive deathmatch play a spin-off to the saga.
