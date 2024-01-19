@@ -233,13 +233,13 @@ soon as possible.
 [options="header",cols="3,1,5",valign="middle",width="100%"]
 |==========================
 | Weapon | Key | Description
-| **Fist** | 1 | If you have no ammunition, you can always fall back on punching the
+| **E-Spork** | 1 | If you have no ammunition, you can always fall back on punching the
 monsters with your bare hands. Ammo: None
-| **Ripsaw** +
+| **Quad Mixer** +
 image:../sprites/csawa0.png[Ripsaw] |
 1 | Designed for cutting through wood, the ripsaw
 also works well as a melee weapon for cutting through flesh. Ammo: None
-| **Handgun** | 2 | Your starter weapon. A few shots will take down low-level
+| **Blaster** | 2 | Your starter weapon. A few shots will take down low-level
 monsters but it’s best to upgrade before taking on any tougher opponents.
 Ammo: Bullets
 | **Pump-action Shotgun** +
@@ -372,10 +372,10 @@ may not be immediately visible.
 image:../sprites/suita0.png[Rescue Operations Suit] |
 Protects you from heat, toxins and radiation from damaging floors,
 for a limited time.
-| **Strength Symbiote** +
+| **Super Ceil** +
 image:../sprites/pstra0.png[Strength Symbiote] |
-Increases your health back to 100%, and enhances your fists to 10x their
-normal damage until the end of level.
+Increases your health back to 100%, and enhances your E-Spork to 10x their
+normal damage with extra power until the end of level.
 | **Invisibility Cloak** +
 image:../sprites/pinsa0.png[Invisibility Cloak] |
 Makes you almost invisible for a limited time. Monsters still detect
