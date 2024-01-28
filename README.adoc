@@ -83,7 +83,8 @@ of the following options should solve it:
     easiest quick-fix, although it is normally desirable to use one of
     the above methods if possible.
 
-    ** +FF1.wad+ can be renamed to +doom.wad+
+    ** +FF1FC.wad+ can be renamed to +doom.wad+
+    ** +FF1SC.wad+ can be renamed to +doom.wad+
     ** +FF2.wad+ can be renamed to +doom2.wad+
     ** +FFA.wad+ can be renamed to +doom2.wad+
 
