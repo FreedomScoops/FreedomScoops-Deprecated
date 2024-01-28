@@ -22,7 +22,7 @@ exclusively for multiplayer deathmatch:
 levels. This game aims for compatibility with _Chex: Quest_
 mods, also known as plain _Doom_ or _Doom 1_. 
 *Freedom Flakes Second Crunch*:: Four episodes, nine levels each, totalling 36
-levels. This game aims for compatibility with _Chex: Quest2_
+levels. This game aims for compatibility with _Chex: Quest 2_
 mods, also known as plain _Doom_ or _Doom 1_. 
 *Freedom Flakes II*:: 32 levels in one long episode, featuring extra
 monsters and a double-barrelled shotgun equivalent. This project aims for
