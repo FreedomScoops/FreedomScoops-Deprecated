@@ -24,9 +24,6 @@ mods, also known as plain _Doom_ or _Doom 1_.
 *Freedom Flakes Second Crunch*:: Four episodes, nine levels each, totalling 36
 levels. This game aims for compatibility with _Chex: Quest 2_
 mods, also known as plain _Doom_ or _Doom 1_. 
-*Freedom Flakes II*:: 32 levels in one long episode, featuring extra
-monsters and a double-barrelled shotgun equivalent. This project aims for
-compatibility with _Doom II Like IWAD_ continues journey of Flake Fury's adventure.
 *Freedom Flakes: Arena*:: A 32-level game designed for competitive deathmatch play a spin-off to the saga.
 
 The engine uses a single file, such as +FF.wad+, that contains
@@ -85,7 +82,6 @@ of the following options should solve it:
 
     ** +FF1FC.wad+ can be renamed to +doom.wad+
     ** +FF1SC.wad+ can be renamed to +doom.wad+
-    ** +FF2.wad+ can be renamed to +doom2.wad+
     ** +FFA.wad+ can be renamed to +doom2.wad+
 
 Additionally, for Unix-like operating systems, such as GNU/Linux or a
