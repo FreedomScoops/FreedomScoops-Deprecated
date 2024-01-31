@@ -35,7 +35,7 @@ https://www.idsoftware.com/[id Software] to play _Doom_.  _Freedom Flakes_
 aims to create a free alternative: combined with the GPL-licensed
 _Doom_ source code, this results in a completely free game.
 
-For more information, see https://FreedomFlakes.github.io/.
+For more information, see ~~https://FreedomFlakes.github.io/~~.
 
 == Story
 Story working in progress not final: 
