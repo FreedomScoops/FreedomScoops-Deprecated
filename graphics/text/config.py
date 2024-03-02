@@ -79,8 +79,8 @@ white_graphics = {
     "wibp4": "P4",
     "wicolon": ":",
     # These files are for the title screens of Phase 1 and Phase 2
-    "t_phase1": "PHASE 1",
-    "t_phase2": "PHASE 2",
+    "t_phase1": "First Crunch",
+    "t_phase2": "Second Crunch",
     # Note: level names are also included in this dictionary, with
     # the data added programatically from the DEHACKED lump, see
     # code below.
@@ -97,7 +97,7 @@ red_graphics = {
     # Title for the HELP/HELP1 screen:
     "helpttl": "Help",
     # Title for CREDIT
-    "freettl": "Freedom Flakes",
+    "freettl": "Freedom Scoops",
     "m_ngame": "Start Mission",
     "m_option": "Options",
     "m_loadg": "Load Game",

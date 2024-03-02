@@ -1,20 +1,22 @@
-Freedoom is a collaborative effort to
-create a complete free content game.
-It is the combined work of many, many
-different artists, musicians, level
-designers and programmers, more than is
-possible to list on this page alone.
+Freedoom Scoops is a collaborative
+effort to create a complete
+free content game. It is the combined work
+of many, many different talented
+game content makers around the world
+more than is possible to list
+their roles on this page alone.
 Thanks go to everyone who has contributed
-and helped to make Freedoom a reality.
+and helped to make this project a reality.
 
-Freedoom is distributed as free software
-under the terms of the BSD license, and is
+Freedom Flakes is distributed as
+free software under the terms
+of the BSD license, and is
 under continual development and
 improvement. If you like the project and
 want to help make it better, visit the
-Freedoom website:
+Freedom Flakes website:
 
-        https://freedoom.github.io/
+        https://FreedomFlakes.github.io/
 
-Thanks for playing.
+Thanks for playing!
 

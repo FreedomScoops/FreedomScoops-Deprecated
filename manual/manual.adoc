@@ -1,4 +1,4 @@
-= Freedom Flakes Saga Manual
+= Freedom Scoops Saga Manual
 // SPDX-License-Identifier: BSD-3-Clause
 
 Welcome to Freedoom, a complete game that is
