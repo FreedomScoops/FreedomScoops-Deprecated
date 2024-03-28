@@ -149,11 +149,11 @@ wivctms.png:
 titlepic: fd1title.png fd2title.png fdmtitle.png
 
 fd1title.png: text_strings ../titlepic/titlepic.png ../m_doom.png 
-	./create_caption ../titlepic/titlepic.png ../m_doom.png ../t_phase1.png $@
+	./create_caption ../titlepic/titlepic.png ../dummy.png ../t_phase1.png $@
 	cp $@ ../
 
 fd2title.png: text_strings ../titlepic/titlepic.png ../m_doom.png
-	./create_caption ../titlepic/titlepic.png ../m_doom.png ../t_phase2.png $@
+	./create_caption ../titlepic/titlepic.png ../dummy.png ../t_phase2.png $@
 	cp $@ ../
 
 fdmtitle.png: ../titlepic/freedm_titlepic.png
