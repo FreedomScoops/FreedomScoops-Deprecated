@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: BSD-3-Clause
 
-VERSION=$(shell git describe --abbrev=8 --dirty 2>/dev/null || echo v0.13.0-unknown)
+VERSION=$(shell git describe --abbrev=8 --dirty 2>/dev/null || echo v0.99.0-Build)
 WADS=wads
 ASCIIDOC=asciidoc
 ADOCOPTS=--backend=html5 --conf-file=.adoc-layout.conf
@@ -16,11 +16,11 @@ LEGACY_TRANSPARENCY_REPLACEMENT=133
 MANUAL_ADOC_FILES=$(wildcard manual/freedoom-manual-??.adoc)
 MANUAL_PDF_FILES=$(subst .adoc,.pdf,$(MANUAL_ADOC_FILES))
 
-FREEDOOM1=$(WADS)/freedoom1.wad
-FREEDOOM2=$(WADS)/freedoom2.wad
-FREEDM=$(WADS)/freedm.wad
+FSFC1=$(WADS)/FSFC1.wad
+FSSC1=$(WADS)/FSSC1.wad
+FREEDM=$(WADS)/FSA.wad
 
-OBJS=$(FREEDM) $(FREEDOOM1) $(FREEDOOM2)
+OBJS=$(FREEDM) $(FSFC1) $(FSSC1) 
 
 .PHONY: clean dist pngs-modified-check
 
@@ -81,13 +81,24 @@ $(FREEDM): wadinfo_freedm.txt subdirs
 #---------------------------------------------------------
 # phase 1 (udoom) iwad
 
-wadinfo_phase1.txt: buildcfg.txt subdirs lumps/freedoom.lmp
-	$(CPP) -P -DPHASE1 < $< > $@
+wadinfo_FSFC1.txt: buildcfg.txt subdirs lumps/freedoom.lmp
+	$(CPP) -P -DFSFC1 < $< > $@
 
-$(FREEDOOM1): wadinfo_phase1.txt subdirs
+$(FSFC1): wadinfo_FSFC1.txt subdirs
 	@mkdir -p $(WADS)
 	$(RM) $@
-	$(DEUTEX) $(DEUTEX_ARGS) -iwad -build wadinfo_phase1.txt $@
+	$(DEUTEX) $(DEUTEX_ARGS) -iwad -build wadinfo_FSFC1.txt $@
+#---------------------------------------------------------
+# phase 1 (udoom) iwad
+
+wadinfo_FSSC1.txt: buildcfg.txt subdirs lumps/freedoom.lmp
+	$(CPP) -P -DFSSC1 < $< > $@
+
+$(FSSC1): wadinfo_FSSC1.txt subdirs
+	@mkdir -p $(WADS)
+	$(RM) $@
+	$(DEUTEX) $(DEUTEX_ARGS) -iwad -build wadinfo_FSSC1.txt $@
+
 
 #---------------------------------------------------------
 # phase 2 (doom2) iwad
@@ -140,8 +151,8 @@ gimp-palette: doom.gpl
 clean:
 	$(RM) *.html doom.gpl $(OBJS) \
 	      ./COPYING.txt ./CREDITS.txt ./CREDITS-MUSIC.txt \
-	      ./wadinfo_phase1.txt \
-	      ./wadinfo_phase2.txt \
+	      ./wadinfo_FSFC1.txt \
+	      ./wadinfo_FSSC1.txt \
 	      ./wadinfo_freedm.txt \
 	      ./lumps/freedoom.lmp \
 	      ./lumps/freedm.lmp
