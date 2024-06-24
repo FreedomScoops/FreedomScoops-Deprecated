@@ -1,0 +1,9 @@
+Release Notes:
+Warning This is not an official release, it is a development build generated automatically in minutes or hours. 
+Following a contributor or maintainer's commit change. After all, this is a raw build. It is best to wait until a stable build has been released and deployed. 
+If you enjoy seeing prototype builds and can't wait to try it, download it and give it a shot. 
+Remember that nothing is final until it's released. What is seen here will be fixed or changed in the future.  
+
+
+
+
