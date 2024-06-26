@@ -1,4 +1,4 @@
-= Freedom Scoops Old Repository (Deprecated)
+# Freedom Scoops Old Repository (Deprecated)
 You are currently looking at an old one.
 
 This repository has been deprecated due to corruption or other reasons. It is no longer supported and worked on. 
