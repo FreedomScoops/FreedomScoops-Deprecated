@@ -1,5 +1,5 @@
 # Freedom Scoops Old Repository (Deprecated)
-You are currently looking at an old one. The project has been relocated [here](https://github.com/FreedomScoops/FreedomScoops). 
+You are currently looking at an old one. The project has been relocated [Here](https://github.com/FreedomScoops/FreedomScoops). 
 
 This repository has been deprecated due to corruption or other reasons. It is no longer supported and worked on. 
 We may shut this down in the next five months. This just to inform others want is happening here and to relocate the project.
