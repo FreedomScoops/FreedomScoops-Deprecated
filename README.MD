@@ -13,5 +13,4 @@ So I shifted over to my new repository and making it public.
 It has been moved to a different repository at the same URL, [FreedomScoops repository](https://github.com/FreedomScoops/FreedomScoops). 
 The files have been updated throughout the last few months, and significant progress has been made on the project.
 
-Anyways, see you over at the new one. Thank you for reading and understanding what's going on. 
-- ZNukem
+Anyways, see you over at the new one. Thank you for reading and understanding what's going on. ZNukem
